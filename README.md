@@ -13,7 +13,9 @@ Chiagoziem Ede
 [See live demo here!](https://raw.githack.com/Elotachukwu/profile/main/index.html)
 
 ## Visual
-![This is a screenshot of the work.](./access/images/screenshot.png "This is a screenshot of the work.")
+![These are screenshots of the work.](./images/mouseover.PNG "These are screenshots of the work.")
+![These are screenshots of the work.](./images/theArea.PNG "These are screenshots of the work.")
+![These are screenshots of the work.](./images/total-area.PNG "These are screenshots of the work.")
 
 ## Languages Used
 * HTML
